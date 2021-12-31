@@ -3,15 +3,18 @@
 UE5-Project for Still Life Scenes (Levels)
 
 
-## Bowls (Basics Lens and Camera Settings)
+## Bowls (Basics: Lens and Camera Settings)
 
 - [x] Manual Exposure (Project Settings) 
 - [x] Post-Process: Global Illumination (Lumen)
 - [x] Rect-Lights
-- [x] Depth of Field
+- [x] Depth of Field (Focus Manual, set Lens MinFStop...)
 
 
-## athina scene
+![Manual Focus](https://media.githubusercontent.com/media/pce/Viz/main/Saved/Screenshots/MacEditor/HighresScreenshot_2021.11.05-13.13.37.png "Manual Focus")
+
+
+## Athina Scene
 
 The [Athena](https://threedscans.com/museo-archeologico-nazionale/athena/) Model is a 3D-Scan of the Museo Archeologico Nazionale di Firenze
 
@@ -21,9 +24,20 @@ The [Athena](https://threedscans.com/museo-archeologico-nazionale/athena/) Model
 - [x] Post-Process: Global Illumination (Lumen)
 - [x] Rect-Lights
 - [x] 3D Text Plugin 
-- [ ] Depth of Field
 
 
 ## Materials
 
+
+![Buddha](https://media.githubusercontent.com/media/pce/Viz/main/Saved/Screenshots/MacEditor/HighresScreenshot00001.png "Buddha - Happy Recon") 
+Model via http://graphics.stanford.edu/data/3Dscanrep/
+
+
+- [x] Simple Material 
 - [ ] Instances of Dirt, Metal
+- [ ] Water Shader
+- [ ] HDRI from HDRI Heaven
+
+
+
+
