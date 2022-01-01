@@ -24,6 +24,8 @@ The [Athena](https://threedscans.com/museo-archeologico-nazionale/athena/) Model
 - [x] Post-Process: Global Illumination (Lumen)
 - [x] Rect-Lights
 - [x] 3D Text Plugin 
+- [x] Camera Sequence
+- [ ] God Rays (Fog and Light Shaft) 
 
 
 ## Materials
