@@ -25,7 +25,10 @@ The [Athena](https://threedscans.com/museo-archeologico-nazionale/athena/) Model
 - [x] Rect-Lights
 - [x] 3D Text Plugin 
 - [x] Camera Sequence
-- [ ] God Rays (Fog and Light Shaft) 
+- [x] Fog, no God Rays
+
+
+https://raw.githubusercontent.com/pce/Viz/main/Saved/VideoCaptures/AthenaLevel.mp4
 
 
 ## Materials
