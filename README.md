@@ -33,11 +33,9 @@ The [Athena](https://threedscans.com/museo-archeologico-nazionale/athena/) Model
 Model via http://graphics.stanford.edu/data/3Dscanrep/
 
 
-- [x] Simple Material 
+- [x] Noise Material 
+- [x] Gold Metal
 - [ ] Instances of Dirt, Metal
 - [ ] Water Shader
-- [ ] HDRI from HDRI Heaven
-
-
-
+- [x] HDRI from Poly Haven
 
