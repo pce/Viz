@@ -22,13 +22,10 @@ The [Athena](https://threedscans.com/museo-archeologico-nazionale/athena/) Model
 
 - [x] Manual Exposure (Project Settings, Bias: -1) 
 - [x] Post-Process: Global Illumination (Lumen)
-- [x] Rect-Lights
+- [x] DirectionalLight
 - [x] 3D Text Plugin 
-- [x] Camera Sequence
-- [x] Fog, no God Rays
-
-
-https://raw.githubusercontent.com/pce/Viz/main/Saved/VideoCaptures/AthenaLevel.mp4
+- [x] [Camera Sequence](https://raw.githubusercontent.com/pce/Viz/main/Saved/VideoCaptures/AthenaLevel.mp4)
+- [x] Fog, no God Rays
 
 
 ## Materials
@@ -43,4 +40,5 @@ Model via http://graphics.stanford.edu/data/3Dscanrep/
 - [ ] Instances of Dirt, Metal
 - [ ] Water Shader
 - [x] HDRI from Poly Haven
+- [x] CameraSequence with Rail Controls
 
