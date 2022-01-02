@@ -33,6 +33,7 @@ The [Athena](https://threedscans.com/museo-archeologico-nazionale/athena/) Model
 
 - Control Exposure over PostprocessVolume (Min/Max Brightness)
 
+![Interior](https://media.githubusercontent.com/media/pce/Viz/main/Saved/Screenshots/MacEditor/HighresScreenshot00003.png "Interior") 
 
 
 
