@@ -36,9 +36,10 @@ Model via http://graphics.stanford.edu/data/3Dscanrep/
 
 
 - [x] Noise Material 
-- [x] Gold Metal
+- [x] Gold Metal as Instance with Parameters
 - [ ] Instances of Dirt, Metal
 - [ ] Water Shader
 - [x] HDRI from Poly Haven
-- [x] CameraSequence with Rail Controls
+- [x] Sky Atmosphere
+- [x] [Camera Sequence with Rail Controls](https://raw.githubusercontent.com/pce/Viz/main/Saved/VideoCaptures/MaterialsLevel.mp4)
 
